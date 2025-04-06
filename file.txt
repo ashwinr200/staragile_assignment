@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello, World!
 This is a conflicting change from main branch.
 This is a change from feature-branch.
+=======
+Hi, This is ashwin
+>>>>>>> 4afa3a1 (Added content inside the file)
